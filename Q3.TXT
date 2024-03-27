@@ -1,0 +1,11 @@
+/*como es que se instalan paquetes con yarn */
+/*r.Si aún no tienes un proyecto Node.js configurado con un archivo package.json, puedes iniciar uno ejecutando el siguiente comando en tu terminal en el directorio donde deseas crear el proyecto:*/ 
+/*yarn init */
+
+/*2como es que se borran paquetes con yarn*/
+/*r. Para eliminar un paquete específico de tu proyecto, puedes usar el siguiente comando:*/
+/*yarn remove nombre_del_paquete*/
+/*Reemplaza nombre_del_paquete con el nombre del paquete que deseas eliminar*/
+
+/*3hay algun equivalente en yarn que haga lo mismo que npm init*/
+/*r.yarn init es el equivalente en Yarn a npm init, pero en lugar de guiar al usuario a través de un asistente interactivo, simplemente crea un archivo package.json vacío que luego puedes editar manualmente para proporcionar los detalles de tu proyecto.*/
